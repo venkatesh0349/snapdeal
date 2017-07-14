@@ -3,4 +3,4 @@ hungry= input("i am very hungry")
         print("eat banana")
     else
         print("go do your homewok")
-
+        print("i had done my homework")
